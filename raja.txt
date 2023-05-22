@@ -6,3 +6,5 @@ this is done by raja
 
 third stash
 
+
+git revert
